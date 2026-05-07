@@ -1,0 +1,6 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets(3081,5): warning MSB3290: Не удалось создать сборку-оболочку для библиотеки типов "{215d64d2-031c-33c7-96e3-61794cd1ee61}". Библиотека типов "System_Windows_Forms" экспортирована из сборки CLR и не может быть повторно импортирована как сборка CLR.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets(3081,5): warning MSB3290: Не удалось создать сборку-оболочку для библиотеки типов "{bee4bfec-6683-3e67-9167-3c0cbc68f40a}". Библиотека типов "System" экспортирована из сборки CLR и не может быть повторно импортирована как сборка CLR.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets(3081,5): warning MSB3290: Не удалось создать сборку-оболочку для библиотеки типов "{d37e2a3e-8545-3a39-9f4f-31827c9124ab}". Библиотека типов "System_Drawing" экспортирована из сборки CLR и не может быть повторно импортирована как сборка CLR.
+  main.cpp
+  main.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  APRSO.vcxproj -> C:\Users\Владислав\Desktop\Клад\учеба\Назарова\Учебная практика\WORK\APRSO\x64\Debug\APRSO.exe

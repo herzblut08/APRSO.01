@@ -1,0 +1,393 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets(3081,5): warning MSB3290: Не удалось создать сборку-оболочку для библиотеки типов "{215d64d2-031c-33c7-96e3-61794cd1ee61}". Библиотека типов "System_Windows_Forms" экспортирована из сборки CLR и не может быть повторно импортирована как сборка CLR.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets(3081,5): warning MSB3290: Не удалось создать сборку-оболочку для библиотеки типов "{bee4bfec-6683-3e67-9167-3c0cbc68f40a}". Библиотека типов "System" экспортирована из сборки CLR и не может быть повторно импортирована как сборка CLR.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets(3081,5): warning MSB3290: Не удалось создать сборку-оболочку для библиотеки типов "{d37e2a3e-8545-3a39-9f4f-31827c9124ab}". Библиотека типов "System_Drawing" экспортирована из сборки CLR и не может быть повторно импортирована как сборка CLR.
+  main.cpp
+C:\Users\Владислав\Desktop\Клад\учеба\Назарова\Учебная практика\WORK\APRSO\APRSO\RegisterForm.h(7,29): error C2039: "Windows": не является членом "System".
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Владислав\Desktop\Клад\учеба\Назарова\Учебная практика\WORK\APRSO\APRSO\RegisterForm.h(7,29): error C3083: Windows: символ слева от "::" должен представлять тип
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Владислав\Desktop\Клад\учеба\Назарова\Учебная практика\WORK\APRSO\APRSO\RegisterForm.h(7,38): error C2039: "Forms": не является членом "System".
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Владислав\Desktop\Клад\учеба\Назарова\Учебная практика\WORK\APRSO\APRSO\RegisterForm.h(7,38): error C2871: Forms: пространство имен с таким именем не существует
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Владислав\Desktop\Клад\учеба\Назарова\Учебная практика\WORK\APRSO\APRSO\RegisterForm.h(8,29): error C2039: "Drawing": не является членом "System".
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Владислав\Desktop\Клад\учеба\Назарова\Учебная практика\WORK\APRSO\APRSO\RegisterForm.h(8,29): error C2871: Drawing: пространство имен с таким именем не существует
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Владислав\Desktop\Клад\учеба\Назарова\Учебная практика\WORK\APRSO\APRSO\RegisterForm.h(10,52): error C2039: "Windows": не является членом "System".
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Владислав\Desktop\Клад\учеба\Назарова\Учебная практика\WORK\APRSO\APRSO\RegisterForm.h(10,61): error C2039: "Forms": не является членом "System".
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Владислав\Desktop\Клад\учеба\Назарова\Учебная практика\WORK\APRSO\APRSO\RegisterForm.h(10,52): error C3083: Windows: символ слева от "::" должен представлять тип
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Владислав\Desktop\Клад\учеба\Назарова\Учебная практика\WORK\APRSO\APRSO\RegisterForm.h(10,61): error C3083: Forms: символ слева от "::" должен представлять тип
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Владислав\Desktop\Клад\учеба\Назарова\Учебная практика\WORK\APRSO\APRSO\RegisterForm.h(10,68): error C2039: "Form": не является членом "System".
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Владислав\Desktop\Клад\учеба\Назарова\Учебная практика\WORK\APRSO\APRSO\RegisterForm.h(10,68): error C2504: Form: не определен базовый класс
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Владислав\Desktop\Клад\учеба\Назарова\Учебная практика\WORK\APRSO\APRSO\RegisterForm.h(19,17): error C2039: "ComponentModel": не является членом "System".
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Владислав\Desktop\Клад\учеба\Назарова\Учебная практика\WORK\APRSO\APRSO\RegisterForm.h(19,17): error C3083: ComponentModel: символ слева от "::" должен представлять тип
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Владислав\Desktop\Клад\учеба\Назарова\Учебная практика\WORK\APRSO\APRSO\RegisterForm.h(19,33): error C2039: "Container": не является членом "System".
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Владислав\Desktop\Клад\учеба\Назарова\Учебная практика\WORK\APRSO\APRSO\RegisterForm.h(19,42): error C2143: синтаксическая ошибка: отсутствие ";" перед "^"
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Владислав\Desktop\Клад\учеба\Назарова\Учебная практика\WORK\APRSO\APRSO\RegisterForm.h(19,33): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Владислав\Desktop\Клад\учеба\Назарова\Учебная практика\WORK\APRSO\APRSO\RegisterForm.h(19,54): error C2238: непредвиденные лексемы перед ";"
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Владислав\Desktop\Клад\учеба\Назарова\Учебная практика\WORK\APRSO\APRSO\RegisterForm.h(21,14): error C2143: синтаксическая ошибка: отсутствие ";" перед "^"
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Владислав\Desktop\Клад\учеба\Назарова\Учебная практика\WORK\APRSO\APRSO\RegisterForm.h(21,9): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Владислав\Desktop\Клад\учеба\Назарова\Учебная практика\WORK\APRSO\APRSO\RegisterForm.h(21,27): error C2238: непредвиденные лексемы перед ";"
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Владислав\Desktop\Клад\учеба\Назарова\Учебная практика\WORK\APRSO\APRSO\RegisterForm.h(22,14): error C2143: синтаксическая ошибка: отсутствие ";" перед "^"
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Владислав\Desktop\Клад\учеба\Назарова\Учебная практика\WORK\APRSO\APRSO\RegisterForm.h(22,9): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Владислав\Desktop\Клад\учеба\Назарова\Учебная практика\WORK\APRSO\APRSO\RegisterForm.h(22,24): error C2238: непредвиденные лексемы перед ";"
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Владислав\Desktop\Клад\учеба\Назарова\Учебная практика\WORK\APRSO\APRSO\RegisterForm.h(23,14): error C2143: синтаксическая ошибка: отсутствие ";" перед "^"
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Владислав\Desktop\Клад\учеба\Назарова\Учебная практика\WORK\APRSO\APRSO\RegisterForm.h(23,9): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Владислав\Desktop\Клад\учеба\Назарова\Учебная практика\WORK\APRSO\APRSO\RegisterForm.h(23,25): error C2238: непредвиденные лексемы перед ";"
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Владислав\Desktop\Клад\учеба\Назарова\Учебная практика\WORK\APRSO\APRSO\RegisterForm.h(25,14): error C2143: синтаксическая ошибка: отсутствие ";" перед "^"
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Владислав\Desktop\Клад\учеба\Назарова\Учебная практика\WORK\APRSO\APRSO\RegisterForm.h(25,9): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Владислав\Desktop\Клад\учеба\Назарова\Учебная практика\WORK\APRSO\APRSO\RegisterForm.h(25,27): error C2238: непредвиденные лексемы перед ";"
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Владислав\Desktop\Клад\учеба\Назарова\Учебная практика\WORK\APRSO\APRSO\RegisterForm.h(26,14): error C2143: синтаксическая ошибка: отсутствие ";" перед "^"
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Владислав\Desktop\Клад\учеба\Назарова\Учебная практика\WORK\APRSO\APRSO\RegisterForm.h(26,9): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Владислав\Desktop\Клад\учеба\Назарова\Учебная практика\WORK\APRSO\APRSO\RegisterForm.h(26,22): error C2238: непредвиденные лексемы перед ";"
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Владислав\Desktop\Клад\учеба\Назарова\Учебная практика\WORK\APRSO\APRSO\RegisterForm.h(27,16): error C2143: синтаксическая ошибка: отсутствие ";" перед "^"
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Владислав\Desktop\Клад\учеба\Назарова\Учебная практика\WORK\APRSO\APRSO\RegisterForm.h(27,9): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Владислав\Desktop\Клад\учеба\Назарова\Учебная практика\WORK\APRSO\APRSO\RegisterForm.h(27,24): error C2238: непредвиденные лексемы перед ";"
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Владислав\Desktop\Клад\учеба\Назарова\Учебная практика\WORK\APRSO\APRSO\RegisterForm.h(28,14): error C2143: синтаксическая ошибка: отсутствие ";" перед "^"
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Владислав\Desktop\Клад\учеба\Назарова\Учебная практика\WORK\APRSO\APRSO\RegisterForm.h(28,9): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Владислав\Desktop\Клад\учеба\Назарова\Учебная практика\WORK\APRSO\APRSO\RegisterForm.h(28,24): error C2238: непредвиденные лексемы перед ";"
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Владислав\Desktop\Клад\учеба\Назарова\Учебная практика\WORK\APRSO\APRSO\RegisterForm.h(29,16): error C2143: синтаксическая ошибка: отсутствие ";" перед "^"
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Владислав\Desktop\Клад\учеба\Назарова\Учебная практика\WORK\APRSO\APRSO\RegisterForm.h(29,9): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Владислав\Desktop\Клад\учеба\Назарова\Учебная практика\WORK\APRSO\APRSO\RegisterForm.h(29,26): error C2238: непредвиденные лексемы перед ";"
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Владислав\Desktop\Клад\учеба\Назарова\Учебная практика\WORK\APRSO\APRSO\RegisterForm.h(30,14): error C2143: синтаксическая ошибка: отсутствие ";" перед "^"
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Владислав\Desktop\Клад\учеба\Назарова\Учебная практика\WORK\APRSO\APRSO\RegisterForm.h(30,9): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Владислав\Desktop\Клад\учеба\Назарова\Учебная практика\WORK\APRSO\APRSO\RegisterForm.h(30,24): error C2238: непредвиденные лексемы перед ";"
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Владислав\Desktop\Клад\учеба\Назарова\Учебная практика\WORK\APRSO\APRSO\RegisterForm.h(31,16): error C2143: синтаксическая ошибка: отсутствие ";" перед "^"
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Владислав\Desktop\Клад\учеба\Назарова\Учебная практика\WORK\APRSO\APRSO\RegisterForm.h(31,9): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Владислав\Desktop\Клад\учеба\Назарова\Учебная практика\WORK\APRSO\APRSO\RegisterForm.h(31,26): error C2238: непредвиденные лексемы перед ";"
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Владислав\Desktop\Клад\учеба\Назарова\Учебная практика\WORK\APRSO\APRSO\RegisterForm.h(32,14): error C2143: синтаксическая ошибка: отсутствие ";" перед "^"
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Владислав\Desktop\Клад\учеба\Назарова\Учебная практика\WORK\APRSO\APRSO\RegisterForm.h(32,9): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Владислав\Desktop\Клад\учеба\Назарова\Учебная практика\WORK\APRSO\APRSO\RegisterForm.h(32,24): error C2238: непредвиденные лексемы перед ";"
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Владислав\Desktop\Клад\учеба\Назарова\Учебная практика\WORK\APRSO\APRSO\RegisterForm.h(33,16): error C2143: синтаксическая ошибка: отсутствие ";" перед "^"
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Владислав\Desktop\Клад\учеба\Назарова\Учебная практика\WORK\APRSO\APRSO\RegisterForm.h(33,9): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Владислав\Desktop\Клад\учеба\Назарова\Учебная практика\WORK\APRSO\APRSO\RegisterForm.h(33,26): error C2238: непредвиденные лексемы перед ";"
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Владислав\Desktop\Клад\учеба\Назарова\Учебная практика\WORK\APRSO\APRSO\RegisterForm.h(34,14): error C2143: синтаксическая ошибка: отсутствие ";" перед "^"
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Владислав\Desktop\Клад\учеба\Назарова\Учебная практика\WORK\APRSO\APRSO\RegisterForm.h(34,9): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Владислав\Desktop\Клад\учеба\Назарова\Учебная практика\WORK\APRSO\APRSO\RegisterForm.h(34,24): error C2238: непредвиденные лексемы перед ";"
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Владислав\Desktop\Клад\учеба\Назарова\Учебная практика\WORK\APRSO\APRSO\RegisterForm.h(35,16): error C2143: синтаксическая ошибка: отсутствие ";" перед "^"
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Владислав\Desktop\Клад\учеба\Назарова\Учебная практика\WORK\APRSO\APRSO\RegisterForm.h(35,9): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Владислав\Desktop\Клад\учеба\Назарова\Учебная практика\WORK\APRSO\APRSO\RegisterForm.h(35,26): error C2238: непредвиденные лексемы перед ";"
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Владислав\Desktop\Клад\учеба\Назарова\Учебная практика\WORK\APRSO\APRSO\RegisterForm.h(36,14): error C2143: синтаксическая ошибка: отсутствие ";" перед "^"
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Владислав\Desktop\Клад\учеба\Назарова\Учебная практика\WORK\APRSO\APRSO\RegisterForm.h(36,9): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Владислав\Desktop\Клад\учеба\Назарова\Учебная практика\WORK\APRSO\APRSO\RegisterForm.h(36,27): error C2238: непредвиденные лексемы перед ";"
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Владислав\Desktop\Клад\учеба\Назарова\Учебная практика\WORK\APRSO\APRSO\RegisterForm.h(37,16): error C2143: синтаксическая ошибка: отсутствие ";" перед "^"
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Владислав\Desktop\Клад\учеба\Назарова\Учебная практика\WORK\APRSO\APRSO\RegisterForm.h(37,9): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Владислав\Desktop\Клад\учеба\Назарова\Учебная практика\WORK\APRSO\APRSO\RegisterForm.h(37,29): error C2238: непредвиденные лексемы перед ";"
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Владислав\Desktop\Клад\учеба\Назарова\Учебная практика\WORK\APRSO\APRSO\RegisterForm.h(38,14): error C2143: синтаксическая ошибка: отсутствие ";" перед "^"
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Владислав\Desktop\Клад\учеба\Назарова\Учебная практика\WORK\APRSO\APRSO\RegisterForm.h(38,9): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Владислав\Desktop\Клад\учеба\Назарова\Учебная практика\WORK\APRSO\APRSO\RegisterForm.h(38,25): error C2238: непредвиденные лексемы перед ";"
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Владислав\Desktop\Клад\учеба\Назарова\Учебная практика\WORK\APRSO\APRSO\RegisterForm.h(39,16): error C2143: синтаксическая ошибка: отсутствие ";" перед "^"
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Владислав\Desktop\Клад\учеба\Назарова\Учебная практика\WORK\APRSO\APRSO\RegisterForm.h(39,9): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Владислав\Desktop\Клад\учеба\Назарова\Учебная практика\WORK\APRSO\APRSO\RegisterForm.h(39,27): error C2238: непредвиденные лексемы перед ";"
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Владислав\Desktop\Клад\учеба\Назарова\Учебная практика\WORK\APRSO\APRSO\RegisterForm.h(40,15): error C2143: синтаксическая ошибка: отсутствие ";" перед "^"
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Владислав\Desktop\Клад\учеба\Назарова\Учебная практика\WORK\APRSO\APRSO\RegisterForm.h(40,9): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Владислав\Desktop\Клад\учеба\Назарова\Учебная практика\WORK\APRSO\APRSO\RegisterForm.h(40,28): error C2238: непредвиденные лексемы перед ";"
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Владислав\Desktop\Клад\учеба\Назарова\Учебная практика\WORK\APRSO\APRSO\RegisterForm.h(41,18): error C2143: синтаксическая ошибка: отсутствие ";" перед "^"
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Владислав\Desktop\Клад\учеба\Назарова\Учебная практика\WORK\APRSO\APRSO\RegisterForm.h(41,9): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Владислав\Desktop\Клад\учеба\Назарова\Учебная практика\WORK\APRSO\APRSO\RegisterForm.h(41,28): error C2238: непредвиденные лексемы перед ";"
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Владислав\Desktop\Клад\учеба\Назарова\Учебная практика\WORK\APRSO\APRSO\RegisterForm.h(42,14): error C2143: синтаксическая ошибка: отсутствие ";" перед "^"
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Владислав\Desktop\Клад\учеба\Назарова\Учебная практика\WORK\APRSO\APRSO\RegisterForm.h(42,9): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Владислав\Desktop\Клад\учеба\Назарова\Учебная практика\WORK\APRSO\APRSO\RegisterForm.h(42,24): error C2238: непредвиденные лексемы перед ";"
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Владислав\Desktop\Клад\учеба\Назарова\Учебная практика\WORK\APRSO\APRSO\RegisterForm.h(169,28): error C2061: синтаксическая ошибка: идентификатор "Panel"
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Владислав\Desktop\Клад\учеба\Назарова\Учебная практика\WORK\APRSO\APRSO\RegisterForm.h(180,16): error C2143: синтаксическая ошибка: отсутствие ";" перед "^"
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Владислав\Desktop\Клад\учеба\Назарова\Учебная практика\WORK\APRSO\APRSO\RegisterForm.h(180,9): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Владислав\Desktop\Клад\учеба\Назарова\Учебная практика\WORK\APRSO\APRSO\RegisterForm.h(181,9): error C2334: непредвиденные лексемы перед "{"; пропуск вероятного тела функции
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Владислав\Desktop\Клад\учеба\Назарова\Учебная практика\WORK\APRSO\APRSO\RegisterForm.h(219,45): error C2061: синтаксическая ошибка: идентификатор "LinkLabelLinkClickedEventArgs"
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Владислав\Desktop\Клад\учеба\Назарова\Учебная практика\WORK\APRSO\APRSO\RegisterForm.h(16,31): error C2065: components: необъявленный идентификатор
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Владислав\Desktop\Клад\учеба\Назарова\Учебная практика\WORK\APRSO\APRSO\RegisterForm.h(16,50): error C2065: components: необъявленный идентификатор
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Владислав\Desktop\Клад\учеба\Назарова\Учебная практика\WORK\APRSO\APRSO\RegisterForm.h(16,43): error C2541: delete: нельзя удалять объекты, не являющиеся указателями
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Владислав\Desktop\Клад\учеба\Назарова\Учебная практика\WORK\APRSO\APRSO\RegisterForm.h(47,19): error C2039: "SuspendLayout": не является членом "APRSO::RegisterForm".
+  (компиляция исходного файла "main.cpp")
+      C:\Users\Владислав\Desktop\Клад\учеба\Назарова\Учебная практика\WORK\APRSO\APRSO\RegisterForm.h(10,22):
+       см. объявление "APRSO::RegisterForm"
+  
+C:\Users\Владислав\Desktop\Клад\учеба\Назарова\Учебная практика\WORK\APRSO\APRSO\RegisterForm.h(50,19): error C2882: Text: недопустимое использование идентификатора пространства имен в выражении
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Владислав\Desktop\Клад\учеба\Назарова\Учебная практика\WORK\APRSO\APRSO\RegisterForm.h(51,19): error C2039: "Size": не является членом "APRSO::RegisterForm".
+  (компиляция исходного файла "main.cpp")
+      C:\Users\Владислав\Desktop\Клад\учеба\Назарова\Учебная практика\WORK\APRSO\APRSO\RegisterForm.h(10,22):
+       см. объявление "APRSO::RegisterForm"
+  
+C:\Users\Владислав\Desktop\Клад\учеба\Назарова\Учебная практика\WORK\APRSO\APRSO\RegisterForm.h(51,34): error C2039: "Drawing": не является членом "System".
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Владислав\Desktop\Клад\учеба\Назарова\Учебная практика\WORK\APRSO\APRSO\RegisterForm.h(51,34): error C3083: Drawing: символ слева от "::" должен представлять тип
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Владислав\Desktop\Клад\учеба\Назарова\Учебная практика\WORK\APRSO\APRSO\RegisterForm.h(51,43): error C2039: "Size": не является членом "System".
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Владислав\Desktop\Клад\учеба\Назарова\Учебная практика\WORK\APRSO\APRSO\RegisterForm.h(51,43): error C3861: Size: идентификатор не найден
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Владислав\Desktop\Клад\учеба\Назарова\Учебная практика\WORK\APRSO\APRSO\RegisterForm.h(52,19): error C2039: "StartPosition": не является членом "APRSO::RegisterForm".
+  (компиляция исходного файла "main.cpp")
+      C:\Users\Владислав\Desktop\Клад\учеба\Назарова\Учебная практика\WORK\APRSO\APRSO\RegisterForm.h(10,22):
+       см. объявление "APRSO::RegisterForm"
+  
+C:\Users\Владислав\Desktop\Клад\учеба\Назарова\Учебная практика\WORK\APRSO\APRSO\RegisterForm.h(52,35): error C2653: FormStartPosition: не является именем класса или пространства имен
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Владислав\Desktop\Клад\учеба\Назарова\Учебная практика\WORK\APRSO\APRSO\RegisterForm.h(52,54): error C2065: CenterScreen: необъявленный идентификатор
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Владислав\Desktop\Клад\учеба\Назарова\Учебная практика\WORK\APRSO\APRSO\RegisterForm.h(53,19): error C2039: "FormBorderStyle": не является членом "APRSO::RegisterForm".
+  (компиляция исходного файла "main.cpp")
+      C:\Users\Владислав\Desktop\Клад\учеба\Назарова\Учебная практика\WORK\APRSO\APRSO\RegisterForm.h(10,22):
+       см. объявление "APRSO::RegisterForm"
+  
+C:\Users\Владислав\Desktop\Клад\учеба\Назарова\Учебная практика\WORK\APRSO\APRSO\RegisterForm.h(53,45): error C2039: "Windows": не является членом "System".
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Владислав\Desktop\Клад\учеба\Назарова\Учебная практика\WORK\APRSO\APRSO\RegisterForm.h(53,54): error C2039: "Forms": не является членом "System".
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Владислав\Desktop\Клад\учеба\Назарова\Учебная практика\WORK\APRSO\APRSO\RegisterForm.h(53,61): error C2039: "FormBorderStyle": не является членом "System".
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Владислав\Desktop\Клад\учеба\Назарова\Учебная практика\WORK\APRSO\APRSO\RegisterForm.h(53,45): error C3083: Windows: символ слева от "::" должен представлять тип
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Владислав\Desktop\Клад\учеба\Назарова\Учебная практика\WORK\APRSO\APRSO\RegisterForm.h(53,54): error C3083: Forms: символ слева от "::" должен представлять тип
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Владислав\Desktop\Клад\учеба\Назарова\Учебная практика\WORK\APRSO\APRSO\RegisterForm.h(53,61): error C3083: FormBorderStyle: символ слева от "::" должен представлять тип
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Владислав\Desktop\Клад\учеба\Назарова\Учебная практика\WORK\APRSO\APRSO\RegisterForm.h(53,78): error C2039: "FixedSingle": не является членом "System".
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Владислав\Desktop\Клад\учеба\Назарова\Учебная практика\WORK\APRSO\APRSO\RegisterForm.h(53,78): error C2065: FixedSingle: необъявленный идентификатор
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Владислав\Desktop\Клад\учеба\Назарова\Учебная практика\WORK\APRSO\APRSO\RegisterForm.h(54,19): error C2039: "MaximizeBox": не является членом "APRSO::RegisterForm".
+  (компиляция исходного файла "main.cpp")
+      C:\Users\Владислав\Desktop\Клад\учеба\Назарова\Учебная практика\WORK\APRSO\APRSO\RegisterForm.h(10,22):
+       см. объявление "APRSO::RegisterForm"
+  
+C:\Users\Владислав\Desktop\Клад\учеба\Назарова\Учебная практика\WORK\APRSO\APRSO\RegisterForm.h(55,19): error C2039: "BackColor": не является членом "APRSO::RegisterForm".
+  (компиляция исходного файла "main.cpp")
+      C:\Users\Владислав\Desktop\Клад\учеба\Назарова\Учебная практика\WORK\APRSO\APRSO\RegisterForm.h(10,22):
+       см. объявление "APRSO::RegisterForm"
+  
+C:\Users\Владислав\Desktop\Клад\учеба\Назарова\Учебная практика\WORK\APRSO\APRSO\RegisterForm.h(55,31): error C2653: Color: не является именем класса или пространства имен
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Владислав\Desktop\Клад\учеба\Назарова\Учебная практика\WORK\APRSO\APRSO\RegisterForm.h(55,38): error C2065: WhiteSmoke: необъявленный идентификатор
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Владислав\Desktop\Клад\учеба\Назарова\Учебная практика\WORK\APRSO\APRSO\RegisterForm.h(56,19): error C2039: "Font": не является членом "APRSO::RegisterForm".
+  (компиляция исходного файла "main.cpp")
+      C:\Users\Владислав\Desktop\Клад\учеба\Назарова\Учебная практика\WORK\APRSO\APRSO\RegisterForm.h(10,22):
+       см. объявление "APRSO::RegisterForm"
+  
+C:\Users\Владислав\Desktop\Клад\учеба\Назарова\Учебная практика\WORK\APRSO\APRSO\RegisterForm.h(56,40): error C2039: "Drawing": не является членом "System".
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Владислав\Desktop\Клад\учеба\Назарова\Учебная практика\WORK\APRSO\APRSO\RegisterForm.h(56,40): error C3083: Drawing: символ слева от "::" должен представлять тип
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Владислав\Desktop\Клад\учеба\Назарова\Учебная практика\WORK\APRSO\APRSO\RegisterForm.h(56,49): error C2039: "Font": не является членом "System".
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Владислав\Desktop\Клад\учеба\Назарова\Учебная практика\WORK\APRSO\APRSO\RegisterForm.h(56,49): error C2061: синтаксическая ошибка: идентификатор "Font"
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Владислав\Desktop\Клад\учеба\Назарова\Учебная практика\WORK\APRSO\APRSO\RegisterForm.h(59,13): error C2065: panelHeader: необъявленный идентификатор
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Владислав\Desktop\Клад\учеба\Назарова\Учебная практика\WORK\APRSO\APRSO\RegisterForm.h(59,33): error C2061: синтаксическая ошибка: идентификатор "Panel"
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Владислав\Desktop\Клад\учеба\Назарова\Учебная практика\WORK\APRSO\APRSO\RegisterForm.h(60,13): error C2065: panelHeader: необъявленный идентификатор
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Владислав\Desktop\Клад\учеба\Назарова\Учебная практика\WORK\APRSO\APRSO\RegisterForm.h(60,41): error C2039: "Drawing": не является членом "System".
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Владислав\Desktop\Клад\учеба\Назарова\Учебная практика\WORK\APRSO\APRSO\RegisterForm.h(60,41): error C3083: Drawing: символ слева от "::" должен представлять тип
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Владислав\Desktop\Клад\учеба\Назарова\Учебная практика\WORK\APRSO\APRSO\RegisterForm.h(60,50): error C2039: "Size": не является членом "System".
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Владислав\Desktop\Клад\учеба\Назарова\Учебная практика\WORK\APRSO\APRSO\RegisterForm.h(60,50): error C3861: Size: идентификатор не найден
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Владислав\Desktop\Клад\учеба\Назарова\Учебная практика\WORK\APRSO\APRSO\RegisterForm.h(60,50): error C1003: число ошибок превышает 100; остановка компиляции
+  (компиляция исходного файла "main.cpp")
+  
